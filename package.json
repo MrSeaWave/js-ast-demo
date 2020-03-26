@@ -1,0 +1,29 @@
+{
+  "name": "js-ast-demo",
+  "version": "1.0.0",
+  "description": "js Ast demo",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrSeaWave/js-ast-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrSeaWave/js-ast-demo/issues"
+  },
+  "homepage": "https://github.com/MrSeaWave/js-ast-demo#readme",
+  "dependencies": {
+    "escodegen": "^1.14.1",
+    "esprima": "^4.0.1",
+    "estraverse": "^5.0.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.2"
+  }
+}
